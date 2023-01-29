@@ -1,0 +1,8 @@
+C:\Users\Ctrl\Source\Repos\Sleepyctrl\Oop_gamedev\ConsoleApp3\obj\Debug\OopFantasyGame.csproj.AssemblyReference.cache
+C:\Users\Ctrl\Source\Repos\Sleepyctrl\Oop_gamedev\ConsoleApp3\obj\Debug\OopFantasyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ctrl\Source\Repos\Sleepyctrl\Oop_gamedev\ConsoleApp3\obj\Debug\OopFantasyGame.csproj.CoreCompileInputs.cache
+C:\Users\Ctrl\source\repos\Sleepyctrl\Oop_gamedev\ConsoleApp3\bin\Debug\OopFantasyGame.exe.config
+C:\Users\Ctrl\source\repos\Sleepyctrl\Oop_gamedev\ConsoleApp3\bin\Debug\OopFantasyGame.exe
+C:\Users\Ctrl\source\repos\Sleepyctrl\Oop_gamedev\ConsoleApp3\bin\Debug\OopFantasyGame.pdb
+C:\Users\Ctrl\source\repos\Sleepyctrl\Oop_gamedev\ConsoleApp3\obj\Debug\OopFantasyGame.exe
+C:\Users\Ctrl\source\repos\Sleepyctrl\Oop_gamedev\ConsoleApp3\obj\Debug\OopFantasyGame.pdb
