@@ -27,7 +27,7 @@
 ### Method where damage is calculated
 * Deal damage
 
-## Example
+## Code
 ```C#
 namespace OopFantasyGame
 {
@@ -77,7 +77,8 @@ namespace OopFantasyGame
 
 ### Method that determines whether the character is in a defensive stance and takes less damage
 * Protective_stand
-### Example
+
+### Code
 ```c#
 namespace OopFantasyGame
 {
@@ -126,7 +127,7 @@ namespace OopFantasyGame
 * DefaultAttackPowerPoints
 * DefaultDefencePoints
 ### Constructor that calling base class constructor with 3 parameters
-### Example
+### Code
 ```c#
 public class Octopus_boss : Entity
     {
@@ -151,7 +152,7 @@ public class Octopus_boss : Entity
 ### Overridden method
 * Special Ability
 
-### Example
+### Code
 ```c#
 public class Heal : Character
     {
@@ -188,7 +189,7 @@ public class Heal : Character
 ### Overridden method
 * Special Ability
 
-### Example
+### Code
 ```c#
   public class Warrior : Character
     {
